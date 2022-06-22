@@ -1,0 +1,41 @@
+header {
+    background-image: url('a.png');
+    background-attachment: fixed;
+}
+
+h1 {
+    opacity: 1 !important;
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header p {
+    opacity: 1 !important;
+    font-size: 1.5rem;
+    color: red;
+}
+
+#remove {
+    top: 21rem;
+    left: 29.5rem;
+}
+
+label {
+    font-weight: 500;
+}
+
+#title {
+    font-weight: bold;
+    margin-bottom: 3%;
+}
+
+#svg {
+    position: absolute;
+    width: 5%;
+    right: 18%;
+    top: 31%;
+}
+
+b {
+    color: red;
+}
